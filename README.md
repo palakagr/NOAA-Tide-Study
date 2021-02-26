@@ -28,7 +28,4 @@ The cities I wish to map are a part of the resilient by cities design proposals 
 - [Comparative studies](http://localhost:5006/SeaLevelRise-app3)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/NOAA-TideStudy/HEAD?urlpath=%2Fpanel%2FSeaLevelRise-app)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/palakagr/NOAA-TideStudy/HEAD?urlpath=%2Fpanel%2FSeaLevelRise-app
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palakagr/NOAA-TideStudy/HEAD?filepath=SeaLevelRise-app)
